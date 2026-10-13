@@ -10,7 +10,8 @@ export const faqs = [
  ['¿Cómo puedo agendar una evaluación?','Cuando el canal esté habilitado, puedes solicitar una evaluación mediante el botón de WhatsApp. La disponibilidad y la reserva se confirman directamente con el equipo de atención.'],
  ['¿Todos los tratamientos requieren una evaluación previa?','Sí. La evaluación permite revisar tus expectativas y antecedentes relevantes, explicar alternativas y determinar si corresponde un procedimiento.'],
  ['¿Cómo se determina qué procedimiento es adecuado?','La decisión se toma después de una evaluación individual y una conversación sobre objetivos, beneficios esperados, riesgos y alternativas. También puede recomendarse no realizar un tratamiento.'],
- ['¿Dónde se realiza la atención?','La ubicación informada es Clínica Rinoface, en Concepción. La dirección exacta y los horarios se publicarán una vez confirmados.'],
+ ['¿Dónde se realiza la atención?','La atención se realiza en Clínica Rinoface, Av. Chacabuco 1085, piso 12, Concepción. Puedes revisar los horarios y abrir las indicaciones de Google Maps en la sección Ubicación.'],
  ['¿Cómo puedo obtener información sobre valores?','Los valores y las condiciones de atención deben consultarse directamente con el equipo. Un presupuesto específico depende de la evaluación y del plan propuesto.'],
  ['¿Qué debo considerar antes y después de un tratamiento?','Solicita las indicaciones específicas al profesional tratante. Los cuidados dependen del procedimiento y de tus antecedentes; esta página no reemplaza una evaluación profesional.']
 ];
+
