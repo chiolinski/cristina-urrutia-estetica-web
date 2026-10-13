@@ -81,3 +81,5 @@ Cambiar --private a --public únicamente si esa visibilidad está confirmada. Si
 ## Validación
 
 Ver `VALIDACION.md` para los resultados reales. Las métricas Lighthouse y Core Web Vitals no se presuponen cumplidas. No hay backend ni almacenamiento de antecedentes clínicos.
+
+Ilustraciones editoriales generadas con IA incorporadas al hero y tratamientos. Ver IMAGENES.md para archivos, procedencia y prompts. Los retratos profesionales y resultados clínicos continúan pendientes de material auténtico.

@@ -22,3 +22,7 @@ No se ejecutaron Lighthouse, medición de Core Web Vitals, revisión con lector 
 La instalación y la ejecución de Node requirieron acceso fuera del sandbox por errores EPERM de acceso a archivos. La segunda ejecución autorizada completó los controles.
 
 No hay remoto Git configurado. No se creó repositorio en GitHub ni se desplegó en Vercel. Las instrucciones están en README.md. La CLI gh está disponible, pero no se verificó su autenticación ni se realizó ninguna operación remota.
+
+## Actualización de imágenes
+
+Se incorporaron dos ilustraciones generadas con IA y optimizadas a WebP en el hero y las seis tarjetas de tratamientos. Comprobadas las siete instancias en navegador: todas cargan correctamente, sin desbordamiento horizontal en la vista revisada. Build y lint ejecutados nuevamente. Prompts, archivos y procedencia documentados en IMAGENES.md.
