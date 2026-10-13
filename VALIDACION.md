@@ -26,3 +26,9 @@ No hay remoto Git configurado. No se creó repositorio en GitHub ni se desplegó
 ## Actualización de imágenes
 
 Se incorporaron dos ilustraciones generadas con IA y optimizadas a WebP en el hero y las seis tarjetas de tratamientos. Comprobadas las siete instancias en navegador: todas cargan correctamente, sin desbordamiento horizontal en la vista revisada. Build y lint ejecutados nuevamente. Prompts, archivos y procedencia documentados en IMAGENES.md.
+
+## Actualización de Instagram
+
+Integrados logo aportado, retratos de la profesional, sección editorial de Instagram y enlace al perfil. No se utilizaron fotografías de pacientes. Las imágenes cargan correctamente y no se detectó desbordamiento horizontal en la vista inicial revisada. Lint y build ejecutados de nuevo.
+
+Se corrigió un desbordamiento de los recortes: comprobación final a 320 px, scrollWidth 305 px (sin desplazamiento horizontal). Escritorio a 1440 px sin desbordamiento. Consola sin errores durante la revisión.

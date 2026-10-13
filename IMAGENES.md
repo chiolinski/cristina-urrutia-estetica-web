@@ -14,3 +14,9 @@ Use case: stylized-concept. Asset type: portrait hero image for a premium Chilea
 ## Prompt 2
 
 Use case: ads-marketing. Asset type: landscape illustration for premium facial aesthetics treatment cards. A tactile ivory plaster relief artwork of a mature female face in calm profile, with delicate lips, nose and cheek contours. Beside the relief, a single curved carved stone shape and subtle linen folds. Still-life fine art photograph, entirely sculptural, no real people. Warm ivory, sand, champagne, taupe; soft natural side light, understated beauty editorial, no gloss, no medical equipment, no products, no text, no watermarks. Landscape composition with face on right half and organic shapes on left. Clearly illustrative, never a clinical result.
+
+## Fotografías e identidad de Instagram
+
+El usuario aportó capturas del perfil @dra.cristinaurrutiagrabuska, sus publicaciones y su logo. Se conservaron en public/instagram-publicaciones.png y public/logo-cristina-urrutia.png. InstagramPortrait realiza recortes visuales CSS de la primera y tercera publicación, sin modificar las fotografías ni incluir pacientes. Hero, Sobre mí y la sección Instagram usan esas imágenes. La sección enlaza el perfil, sin simular un feed actualizado ni enlazar publicaciones individuales no identificadas.
+
+Los datos de la biografía (odontóloga y enfermera, ecografía facial) se atribuyen expresamente al perfil aportado; no constituyen verificación independiente. No se reproduce la afirmación «especialista», la insignia verificada, cifras de seguidores ni casos clínicos. El enlace puede sustituirse con VITE_INSTAGRAM_URL.
