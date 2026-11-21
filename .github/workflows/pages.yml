@@ -26,6 +26,7 @@ jobs:
       - run: npm run lint
       - run: npm run build
         env:
+          VITE_PUBLICATION_READY: 'true'
           VITE_SITE_URL: ${{ vars.SITE_URL || 'https://chiolinski.github.io/cristina-urrutia-estetica-web/' }}
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
@@ -34,5 +35,6 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
+
 
 
