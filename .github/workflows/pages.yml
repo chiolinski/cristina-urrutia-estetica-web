@@ -32,9 +32,12 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
+      - name: Esperar disponibilidad del artefacto de Pages
+        run: sleep 30
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
+
 
 
 
