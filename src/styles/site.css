@@ -50,3 +50,5 @@ small{font-size:14px;line-height:1.7}.eyebrow,.hero .eyebrow,.treatment .eyebrow
 nav a,.header-cta{font-family:'Cormorant Garamond',Georgia,serif;font-size:23px;font-weight:500;line-height:1.2;letter-spacing:0}@media(min-width:901px) and (max-width:1200px){nav a{font-size:21px}}@media(min-width:901px) and (max-width:1050px){nav a{font-size:20px}}@media(max-width:900px){nav a{font-size:26px}}
 
 
+/* Ubicación sin mapa integrado. */
+.location{display:block}.location>div{max-width:600px;margin-inline:auto}
